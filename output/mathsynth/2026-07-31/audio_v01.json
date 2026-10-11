@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-07-31T19:07:04.425134",
+  "backend": "mathsynth",
+  "prompt": "",
+  "duration": 30,
+  "params": {
+    "pattern": "lissajous",
+    "base_frequency": 220,
+    "waveform": "sine",
+    "a_b_ratio": "3:2",
+    "scale": "pentatonic"
+  },
+  "analysis": {
+    "duration_sec": 0.0,
+    "peak_db": -139.77,
+    "rms_db": -142.79,
+    "dynamic_range_db": 3.01,
+    "crest_factor_db": 3.01,
+    "sample_rate": 44100,
+    "n_samples": 2
+  }
+}

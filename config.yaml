@@ -1,0 +1,28 @@
+backend_settings:
+  mathsynth:
+    amplitude: 0.8
+    chord_type: Minor
+    detune: 0.32
+    frequency: 1206
+    lfo_depth: 0.0
+    lfo_rate: 0.0
+    seed: 42
+    waveform_type: Sawtooth
+hardware:
+  device: cuda
+plugins:
+  active_plugin: mathsynth
+post_processing:
+  fade_ms: 50
+  normalize: true
+presets: {}
+prompt_history: []
+settings:
+  auto_play: false
+  export_format: WAV
+  organize_output: true
+  output_dir: output
+system:
+  cache_dir: C:\Users\Entendore\.aimusic\cache
+  ckpt_dir: C:\Users\Entendore\.aimusic\ckpt
+  heartlib_repo_dir: ''
